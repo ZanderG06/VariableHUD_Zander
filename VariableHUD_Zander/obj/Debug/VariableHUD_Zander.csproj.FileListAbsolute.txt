@@ -1,0 +1,8 @@
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\bin\Debug\VariableHUD_Zander.exe.config
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\bin\Debug\VariableHUD_Zander.exe
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\bin\Debug\VariableHUD_Zander.pdb
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\obj\Debug\VariableHUD_Zander.csproj.AssemblyReference.cache
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\obj\Debug\VariableHUD_Zander.csproj.CoreCompileInputs.cache
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\obj\Debug\VariableHUD_Zander.exe
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\obj\Debug\VariableHUD_Zander.pdb
+C:\Users\w0487679\Documents\VariableHUD_Zander\VariableHUD_Zander\obj\Debug\VariableHUD_Zander.exe.config
